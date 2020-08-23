@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<AlteryxJavaScriptPlugin>
+  <EngineSettings EngineDll="Python" EngineDllEntryPoint="VADER_Sentiment_Engine.py" SDKVersion="10.1" />
+  <GuiSettings Html="VADER_Sentiment_Gui.html" Icon="VADER_Sentiment_Icon.png" Help="https://help.alteryx.com/developer/current/index.htm#Python/Examples.htm" SDKVersion="10.1">
+    <InputConnections>
+      <Connection Name="Input" AllowMultiple="False" Optional="False" Type="Connection" Label=""/>
+    </InputConnections>
+    <OutputConnections>
+      <Connection Name="Output" AllowMultiple="False" Optional="False" Type="Connection" Label=""/>
+    </OutputConnections>
+  </GuiSettings>
+  <Properties>
+    <MetaInfo>
+      <Name>VADER_Sentiment</Name>
+      <Description>Use the VADER Sentiment Analysis in Alteryx.</Description>
+      <ToolVersion>1.0</ToolVersion>
+      <CategoryName>Laboratory</CategoryName>
+      <SearchTags>python, sdk, texr analysis, sentiment, VADER Sentiment, python sdk</SearchTags>
+      <Author>Nathan Mayo</Author>
+      <Company></Company>
+      <Copyright></Copyright>
+    </MetaInfo>
+  </Properties>
+</AlteryxJavaScriptPlugin>

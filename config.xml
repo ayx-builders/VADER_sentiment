@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AlteryxJavaScriptPlugin>
+   <Properties>
+      <MetaInfo>
+         <Name>Vader Sentiment Analysis</Name>
+         <Description>Use the VADER Sentiment Analysis in Alteryx. For information on the Vader tool please see: https://github.com/cjhutto/vaderSentiment</Description>
+         <ToolVersion>1.0</ToolVersion>
+         <CategoryName>Laboratory</CategoryName>
+         <Author>Nathan Mayo</Author>
+         <Icon>VADER_Sentiment\Vader_Sentiment_Icon.png</Icon>
+      </MetaInfo>
+   </Properties>
+</AlteryxJavaScriptPlugin>
