@@ -14,7 +14,7 @@
       <Name>VADER_Sentiment</Name>
       <Description>Use the VADER Sentiment Analysis in Alteryx.</Description>
       <ToolVersion>1.0</ToolVersion>
-      <CategoryName>Laboratory</CategoryName>
+      <CategoryName>ayx_builders</CategoryName>
       <SearchTags>python, sdk, texr analysis, sentiment, VADER Sentiment, python sdk</SearchTags>
       <Author>Nathan Mayo</Author>
       <Company></Company>
